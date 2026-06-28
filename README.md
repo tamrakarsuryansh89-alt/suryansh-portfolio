@@ -2,7 +2,7 @@
 
 Personal portfolio website built with HTML, CSS & JavaScript.
 
-🌐 Live: https://tamrakarsuryansh89-alt.github.io/index.html
+🌐 Live: https://tamrakarsuryansh89-alt.github.io/suryansh-portfolio/
 
 ## Tech Stack
 - HTML / CSS / JavaScript
